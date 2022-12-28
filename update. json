@@ -4,18 +4,11 @@
 { "name": "DTAC-FREE-SG",
  "url": "https://raw.githubusercontent.com/Kophyofreenet/mmtpro/main/DTAC-FREE.ovpn" },
    
-{ "name": "TRUE-FREE-SG",
+{ "name": "TRUE-FREE-SG"
  "url": "https://raw.githubusercontent.com/Kophyofreenet/mmtpro/main/TRUE-FREE.ovpn" },   
   
-{ "name": "TRUE-TH-CAT",
- "url": "https://raw.githubusercontent.com/NONFREE-VPN/Files/main/TH-TRUE-NOPRO-CAT.ovpn" },    
-  
-
-{ "name": "AIS-TH-CAT",
- "url": "https://raw.githubusercontent.com/NONFREE-VPN/Files/main/TH-AIS-PLAY64K-CAT.ovpn" },
-
-{ "name": "DTAC-TH-CAT",
- "url": "https://raw.githubusercontent.com/NONFREE-VPN/Files/main/TH-DTAC-NOPRO-CAT.ovpn" }
+{ "name": "TRUE-TH-CAT"
+ "url": "https://raw.githubusercontent.com/NONFREE-VPN/Files/main/TH-TRUE-NOPRO-CAT.ovpn" },
 
     
 
@@ -27,11 +20,11 @@
 \n ♥️♥️เซิร์ฟเวอร์ไม่แรง♥️♥️
 \n 🙏ต้องขออภัยมาใน ณ ที่นี้ด้วยครับ🙏
 \n 🚀เครดิตไฟล์ Admin ตุ้ย ปิยทัศน์🚀
-\n คอนฟิกเวอร์ชั่น:1
-\n อัพเดทเมื่อวันที่:27/ธค/2022
+\n คอนฟิกเวอร์ชั่น:2
+\n อัพเดทเมื่อวันที่:28/ธค/2022
 \n \nผู้พัฒนาแอพ:SAMU
 \n​ Copyright © 2022 NET-D SAMU LIMITED
 \n  ",
-"title":"ไฟล์อัพเดทใหม่พร้อมใช้งาน" ,
-"version":1
+"title":"ไฟล์อัพเดทใหม่พร้อมใช้งาน" 
+"version":2
 }
