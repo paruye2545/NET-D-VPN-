@@ -17,8 +17,16 @@
 {"name":"SG-True2","url":"https:\/\/raw.githubusercontent.com\/HeinMivpn\/HMLVPN\/main\/SG-True.ovpn"},
 {"name":"SG-True3","url":"https:\/\/raw.githubusercontent.com\/HeinMivpn\/HMLVPN\/main\/SG-True.ovpn"},
 {"name":"SG-True4","url":"https:\/\/raw.githubusercontent.com\/HeinMivpn\/HMLVPN\/main\/SG-True.ovpn"},
-{"name":"SG-True5","url":"https:\/\/raw.githubusercontent.com\/HeinMivpn\/HMLVPN\/main\/SG-True.ovpn"}
+{"name":"SG-True5","url":"https:\/\/raw.githubusercontent.com\/HeinMivpn\/HMLVPN\/main\/SG-True.ovpn"},
+{"name":"TH-True2","url":"https://raw.githubusercontent.com/paruye2545/NET-D-VPN-/main/TH_Dtac.BANGMOD_02.ovpn"},
 
+{"name":"TH-True2","url":"https://raw.githubusercontent.com/paruye2545/NET-D-VPN-/main/TH_True.BANGMOD_01.ovpn""},
+
+
+{"name":"TH-True1","url":"https://raw.githubusercontent.com/paruye2545/NET-D-VPN-/main/VIP_DTAC_GAME_IDC01.ovpn"},
+
+{"name":"TH-Dtac1","url":"https://raw.githubusercontent.com/paruye2545/NET-D-VPN-/main/VIP_TRUE_GAME_IDC03.ovpn"},
+{"name":"TH-True2","url":"https://raw.githubusercontent.com/paruye2545/NET-D-VPN-/main/TH_Dtac.BANGMOD_02.ovp n"}
 ],
 "message":" 
 \n 📱รองรับการใช้งานทุกเครือข่าย🛎
@@ -27,11 +35,11 @@
 \n ♥️♥️เซิร์ฟเวอร์ไม่แรง♥️♥️
 \n 🙏ต้องขออภัยมาใน ณ ที่นี้ด้วยครับ🙏
 \n 🚀เครดิตไฟล์ Admin สม ตุ๋ย🚀
-\n คอนฟิกเวอร์ชั่น:8
+\n คอนฟิกเวอร์ชั่น:9
 \n อัพเดทเมื่อวันที่:28/ธค/2022
 \n \nผู้พัฒนาแอพ:SAMUPRO
 \n​ Copyright © 2022 NONTHAI-SAMU LIMITED
 \n  ",
 "title":"ไฟล์อัพเดทใหม่พร้อมใช้งาน" ,
-"version":8
+"version":9
 }
