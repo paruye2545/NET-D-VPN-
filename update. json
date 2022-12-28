@@ -5,10 +5,19 @@
  "url": "https://raw.githubusercontent.com/Kophyofreenet/mmtpro/main/DTAC-FREE.ovpn" },
    
 { "name": "TRUE-FREE-SG",
- "url": "https://raw.githubusercontent.com/Kophyofreenet/mmtpro/main/TRUE-FREE.ovpn" }   
+ "url": "https://raw.githubusercontent.com/Kophyofreenet/mmtpro/main/TRUE-FREE.ovpn" },   
   
 
-    
+    {"name":"SG-Dtac1","url":"https:\/\/raw.githubusercontent.com\/HeinMivpn\/HMLVPN\/main\/SG-Dtac.ovpn"},
+{"name":"SG-Dtac2","url":"https:\/\/raw.githubusercontent.com\/HeinMivpn\/HMLVPN\/main\/SG-Dtac.ovpn"},
+{"name":"SG-Dtac3","url":"https:\/\/raw.githubusercontent.com\/HeinMivpn\/HMLVPN\/main\/SG-Dtac.ovpn"},
+{"name":"SG-Dtac4","url":"https:\/\/raw.githubusercontent.com\/HeinMivpn\/HMLVPN\/main\/SG-Dtac.ovpn"},
+{"name":"SG-Dtac5","url":"https:\/\/raw.githubusercontent.com\/HeinMivpn\/HMLVPN\/main\/SG-Dtac.ovpn"},
+{"name":"SG-True1","url":"https:\/\/raw.githubusercontent.com\/HeinMivpn\/HMLVPN\/main\/SG-True.ovpn"},
+{"name":"SG-True2","url":"https:\/\/raw.githubusercontent.com\/HeinMivpn\/HMLVPN\/main\/SG-True.ovpn"},
+{"name":"SG-True3","url":"https:\/\/raw.githubusercontent.com\/HeinMivpn\/HMLVPN\/main\/SG-True.ovpn"},
+{"name":"SG-True4","url":"https:\/\/raw.githubusercontent.com\/HeinMivpn\/HMLVPN\/main\/SG-True.ovpn"},
+{"name":"SG-True5","url":"https:\/\/raw.githubusercontent.com\/HeinMivpn\/HMLVPN\/main\/SG-True.ovpn"}
 
 ],
 "message":" 
@@ -18,11 +27,11 @@
 \n ♥️♥️เซิร์ฟเวอร์ไม่แรง♥️♥️
 \n 🙏ต้องขออภัยมาใน ณ ที่นี้ด้วยครับ🙏
 \n 🚀เครดิตไฟล์ Admin สม ตุ๋ย🚀
-\n คอนฟิกเวอร์ชั่น:7
+\n คอนฟิกเวอร์ชั่น:8
 \n อัพเดทเมื่อวันที่:28/ธค/2022
 \n \nผู้พัฒนาแอพ:SAMUPRO
 \n​ Copyright © 2022 NONTHAI-SAMU LIMITED
 \n  ",
 "title":"ไฟล์อัพเดทใหม่พร้อมใช้งาน" ,
-"version":7
+"version":8
 }
