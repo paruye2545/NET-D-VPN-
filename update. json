@@ -1,11 +1,28 @@
 {
 "files": [   
+{ "name": "DTAC_NOPRO",
+"url":"https://github.com/paruye2545/NET-D-VPN-/blob/main/SG_DTAC_NOPRO.ovpn.zip?raw=true" },
 
-{ "name": "DTAC-FREE-SG",
- "url": "https://raw.githubusercontent.com/Kophyofreenet/mmtpro/main/DTAC-FREE.ovpn" },
-   
-{ "name": "TRUE-FREE-SG",
- "url": "https://raw.githubusercontent.com/Kophyofreenet/mmtpro/main/TRUE-FREE.ovpn" }   
+{ "name": "TRUE_NOPRO",
+ "url": "https://github.com/paruye2545/NET-D-VPN-/blob/main/SG_TRUE_NOPRO.ovpn.zip?raw=true" },
+
+
+
+{ "name": "TRUE-FREE-BM",
+ "url": "https://github.com/paruye2545/NET-D-VPN-/blob/main/TH_Dtac.BANGMOD_01.ovpn.zip?raw=true" },
+
+
+
+{ "name": "DTAC-FREE-BM",
+ "url": "https://github.com/paruye2545/NET-D-VPN-/blob/main/TH_True.BANGMOD_01.ovpn.zip?raw=true" },
+
+{ "name": "TRUE-GAME-IDC",
+ "url": "https://github.com/paruye2545/NET-D-VPN-/blob/main/VIP_TRUE_GAME_IDC01.ovpn.zip?raw=true" },
+
+
+
+{ "name": "DTAC-GAME-IDC",
+ "url": "https://github.com/paruye2545/NET-D-VPN-/blob/main/VIP_DTAC_GAME_IDC03.ovpn.zip?raw=true" }  
   
 
 "message":" 
