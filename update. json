@@ -1,30 +1,19 @@
 {
 "files": [   
-{ "name": "DTAC_NOPRO",
-"url":"https://github.com/paruye2545/NET-D-VPN-/blob/main/SG_DTAC_NOPRO.ovpn.zip?raw=true" },
+{ 
+         "name": "TH-FREE-001",
+         "url": "https://raw.githubusercontent.com/MANGAY-VIP/MANGAY-VIP2022.json/main/TH-FREE-001.ovpn"
+      },
 
-{ "name": "TRUE_NOPRO",
- "url": "https://github.com/paruye2545/NET-D-VPN-/blob/main/SG_TRUE_NOPRO.ovpn.zip?raw=true" },
+{
+         "name": "TH-FREE-002",
+         "url": "https://raw.githubusercontent.com/MANGAY-VIP/MANGAY-VIP2022.json/main/TH-FREE-001.ovpn"
+      },
 
-
-
-{ "name": "TRUE-FREE-BM",
- "url": "https://github.com/paruye2545/NET-D-VPN-/blob/main/TH_Dtac.BANGMOD_01.ovpn.zip?raw=true" },
-
-
-
-{ "name": "DTAC-FREE-BM",
- "url": "https://github.com/paruye2545/NET-D-VPN-/blob/main/TH_True.BANGMOD_01.ovpn.zip?raw=true" },
-
-{ "name": "TRUE-GAME-IDC",
- "url": "https://github.com/paruye2545/NET-D-VPN-/blob/main/VIP_TRUE_GAME_IDC01.ovpn.zip?raw=true" },
-
-
-
-{ "name": "DTAC-GAME-IDC",
- "url": "https://github.com/paruye2545/NET-D-VPN-/blob/main/VIP_DTAC_GAME_IDC03.ovpn.zip?raw=true" }  
-  
-
+{
+         "name": "TH-FREE-003",
+         "url": "https://raw.githubusercontent.com/MANGAY-VIP/MANGAY-VIP2022.json/main/TH-FREE-001.ovpn"
+      },
 "message":" 
 \n 📱รองรับการใช้งานทุกเครือข่าย🛎
 \n​ DTAC TRUE AIS
@@ -32,11 +21,11 @@
 \n ♥️♥️เซิร์ฟเวอร์ไม่แรง♥️♥️
 \n 🙏ต้องขออภัยมาใน ณ ที่นี้ด้วยครับ🙏
 \n 🚀เครดิตไฟล์ Admin สม ตุ๋ย🚀
-\n คอนฟิกเวอร์ชั่น:1
-\n อัพเดทเมื่อวันที่:2/ม.ค/2023
+\n คอนฟิกเวอร์ชั่น:2
+\n อัพเดทเมื่อวันที่:27/ม.ค/2023
 \n \nผู้พัฒนาแอพ:ตุ้ย
 \n​ Copyright © 2022 NONTHAI-SAMU LIMITED
 \n  ",
 "title":"ไฟล์อัพเดทใหม่พร้อมใช้งาน" ,
-"version":1
+"version":2
 }
