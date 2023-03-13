@@ -1,19 +1,29 @@
 {
-   "files": [   
- {
-         "name": "Dtac​ Free SG01",
-         "url": "https://raw.githubusercontent.com/Nknooker/Nknooker/main/Dtac%20Free%20SG01.ovpn"
-      },
-      
-      {
-         "name": "True Free  TH02",
-         "url": "https://raw.githubusercontent.com/Nknooker/Nknooker/main/True%20Free%20TH%E2%80%8B02.ovpn"
-      }   
-      
-      
+ "filles":[
 
-   ],
-"message":" \nรองรับ NOPRO Dtac  True​\n​DTAC​ NOPRO\n​TRUE​ NOPRO\nเซิร์ฟเวอร์ไม่แรง\nต้องขออภัยมาใน ณ ที่นี้ด้วยครับ\nเคดิตไฟล์ Addmin samu\n คอนฟิกเวอร์ชั่น: 1.1 \nอัพเดทเมื่อวันที่: 06/ตค/2022\n \nผู้พัฒนาแอพ:SAMU\n  ",
-   "title":"ไฟล์อัพเดทใหม่พร้อมใช้งาน" ,
-   "version": 2.6
-}
+{ "name" : "DTAC-FREE-VIP",
+"url" :
+"https://raw.githubusercontent.com/Kophyofreene
+t/mmtpro/main/DTAC-FREE.ovpn" ,
+
+{ "name" : "TRUE-FREE-TH",
+"url" :
+"https://raw.githubusercontent.com/Kophyofreene
+t/mmtpro/main/TRUE-FREE. ovpn" }
+
+
+
+],
+"message":"
+/n DTAC TRUE AIS
+/n DTAC-NOPRO SIn TRUE-NOPRO SIn AIS-PLAY64KE
+/n
+/n
+/n &เครดิตไฟล์ Admin NONTHAI
+/n อัพเดทเมื่อวันที่ : 27 / ธค / 2022
+/n Inผู้พัฒนาแอพ : SAMUPRO
+/n Copyright @ 2022 NONTHAI-SAMU LIMITED
+/n
+"title":"ไฟล์อัพเดทใหม่พร้อมใช้งาน" ,
+"version" :14
+{
