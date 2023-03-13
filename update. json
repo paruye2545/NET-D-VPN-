@@ -1,141 +1,19 @@
-
 {
-   "ไฟล์" : [    
-
-{
-         "ชื่อ" : " SG-DTAC-TRUE-01 " ,
-         "url" : " https://raw.githubusercontent.com/Kophyofreenet/MYOVPN/main/DTAC-TRUE-01.ovpn "
-      },     
-
-
-{
-         "ชื่อ" : " SG-DTAC-TRUE-02 " ,
-         "url" : " https://raw.githubusercontent.com/Kophyofreenet/MYOVPN/main/DTAC-TRUE-02.ovpn "
-      },
-
-
-{
-         "ชื่อ" : " SG-DTAC-TRUE-03 " ,
-         "url" : " https://raw.githubusercontent.com/Kophyofreenet/MYOVPN/main/DTAC-TRUE-03.ovpn "
-      },
-
-
-{
-         "ชื่อ" : " SG-DTAC-TRUE-04 " ,
-         "url" : " https://raw.githubusercontent.com/Kophyofreenet/MYOVPN/main/DTAC-TRUE-04.ovpn "
-      },
-
-
-{
-         "ชื่อ" : " SG-DTAC-TRUE-05 " ,
-         "url" : " https://raw.githubusercontent.com/Kophyofreenet/MYOVPN/main/DTAC-TRUE-05.ovpn "
-      },
-
-
-{
-         "ชื่อ" : " SG-DTAC-TRUE-06 " ,
-         "url" : " https://raw.githubusercontent.com/Kophyofreenet/MYOVPN/main/DTAC-TRUE-06.ovpn "
-      },
-
-
-{
-         "ชื่อ" : " SG-DTAC-TRUE-07 " ,
-         "url" : " https://raw.githubusercontent.com/Kophyofreenet/MYOVPN/main/DTAC-TRUE-07.ovpn "
-      },
-
-
-{
-         "ชื่อ" : " SG-DTAC-TRUE-08 " ,
-         "url" : " https://raw.githubusercontent.com/Kophyofreenet/MYOVPN/main/DTAC-TRUE-08.ovpn "
+   "files": [   
+ {
+         "name": "Dtac​ Free SG01",
+         "url": "https://raw.githubusercontent.com/Nknooker/Nknooker/main/Dtac%20Free%20SG01.ovpn"
       },
       
-
-{
-         "ชื่อ" : " SG-DTAC-TRUE-09 " ,
-         "url" : " https://raw.githubusercontent.com/Kophyofreenet/MYOVPN/main/DTAC-TRUE-09.ovpn "
-      },
-
-
-{
-         "ชื่อ" : " SG-DTAC-TRUE-10 " ,
-         "url" : " https://raw.githubusercontent.com/Kophyofreenet/MYOVPN/main/DTAC-TRUE-10.ovpn "
-      },
-
-
-{
-         "name": "SG-DTAC-TRUE-11",
-         "url": "https://raw.githubusercontent.com/Kophyofreenet/MYOVPN/main/DTAC-TRUE-11.ovpn"
-      },
-
-
-{
-         "name": "SG-DTAC-TRUE-12",
-         "url": "https://raw.githubusercontent.com/Kophyofreenet/MYOVPN/main/DTAC-TRUE-12.ovpn"
-      },
-
-
-{
-         "name": "SG-DTAC-TRUE-13",
-         "url": "https://raw.githubusercontent.com/Kophyofreenet/MYOVPN/main/DTAC-TRUE-13.ovpn"
-      },
-
-
-{
-         "name": "SG-DTAC-TRUE-14",
-         "url": "https://raw.githubusercontent.com/Kophyofreenet/MYOVPN/main/DTAC-TRUE-14.ovpn"
-      },
-
-
-{
-         "name": "SG-DTAC-TRUE-15",
-         "url": "https://raw.githubusercontent.com/Kophyofreenet/MYOVPN/main/DTAC-TRUE-15.ovpn"
-      },
-
-
-{
-         "name": "SG-DTAC-TRUE-16",
-         "url": "https://raw.githubusercontent.com/Kophyofreenet/MYOVPN/main/DTAC-TRUE-16.ovpn"
-      },
-
-
-{
-         "name": "SG-DTAC-TRUE-17",
-         "url": "https://raw.githubusercontent.com/Kophyofreenet/MYOVPN/main/DTAC-TRUE-17.ovpn"
-      },
-
-
-{
-         "name": "SG-DTAC-TRUE-18",
-         "url": "https://raw.githubusercontent.com/Kophyofreenet/MYOVPN/main/DTAC-TRUE-18.ovpn"
-      },
-
-
-{
-         "name": "SG-DTAC-TRUE-19",
-         "url": "https://raw.githubusercontent.com/Kophyofreenet/MYOVPN/main/DTAC-TRUE-19.ovpn"
-      },
-
-
-{
-         "name": "SG-DTAC-TRUE-20",
-         "url": "https://raw.githubusercontent.com/Kophyofreenet/MYOVPN/main/DTAC-TRUE-20.ovpn"
-
-      }
-
+      {
+         "name": "True Free  TH02",
+         "url": "https://raw.githubusercontent.com/Nknooker/Nknooker/main/True%20Free%20TH%E2%80%8B02.ovpn"
+      }   
+      
+      
 
    ],
-"message":"
-\n 📱รองรับการใช้งานทุกเครือข่าย🛎
-\n​ DTAC TRUE AIS
-​\n​ DTAC​-NOPRO🚀\n​ TRUE​-NOPRO🚀\n​ AIS-PLAY64K🚀
-\n ♥️♥️เซิร์ฟเวอร์ไม่แรง♥️♥️
-\n 🙏ต้องขออภัยมาใน ณ ที่นี้ด้วยครับ🙏
-\n 🚀เครดิตไฟล์ Admin สม ตุ๋ย🚀
-\n คอนฟิกเวอร์ชั่น:26
-\n อัพเดทเมื่อวันที่:22/ก.พ /2023
-\n \nผู้พัฒนาแอพ:ตุ้ย
-\n​ Copyright © 2022 NONTHAI-SAMU LIMITED
-\n  ",
-"title":"ไฟล์อัพเดทใหม่พร้อมใช้งาน" ,
-"version":26
+"message":" \nรองรับ NOPRO Dtac  True​\n​DTAC​ NOPRO\n​TRUE​ NOPRO\nเซิร์ฟเวอร์ไม่แรง\nต้องขออภัยมาใน ณ ที่นี้ด้วยครับ\nเคดิตไฟล์ Addmin samu\n คอนฟิกเวอร์ชั่น: 1.1 \nอัพเดทเมื่อวันที่: 06/ตค/2022\n \nผู้พัฒนาแอพ:SAMU\n  ",
+   "title":"ไฟล์อัพเดทใหม่พร้อมใช้งาน" ,
+   "version": 2.6
 }
