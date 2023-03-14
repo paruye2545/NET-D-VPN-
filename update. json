@@ -1,28 +1,95 @@
 {
-"files":[
- 
-{ "name": "DTAC-FREE-SG"
- "url": 
-"https://github.com/paruye2545/NET-D-VPN-/blob/main/SG_TRUE_NOPRO.ovpn.zip?raw=true" },
-
-{ "name": "TRUE-FREE-TH" 
- "url":
-"https://github.com/paruye2545/NET-D-VPN-/blob/main/SG_DTAC_NOPRO.ovpn.zip?raw=true" } 
+   "files": [    
 
 
-], 
-"ข้อความ":" 
-\n 📱รองรับการใช้งานทุกเครือข่าย🛎
-\n​ ดีแทค ทรู เอไอเอส
-\n​ DTAC​-NOPRO🚀\n​ TRUE​-NOPRO🚀\n​ AIS-PLAY64K🚀
-\n ♥️♥️การใช้งานไม่แรง♥️♥️ 
-\n 🙏ต้องขออภัยมา ณ ที่นี้ด้วยครับ🙏
-\n 🚀 เครดิตไฟล์ Admin ตุ้ย ปิยทัศน์🚀
-\n คอนฟิกท้าทาย:39
-\n อัพเดทสำหรับวันที่:14/ธค/2022
-\n คัพเค้กแอพ:SAMU 
-\n​ ลิขสิทธิ์ © 2022 NET-D SAMU LIMITED 
-\n ", 
-"title":"ไฟล์อัพเดทใหม่พร้อมใช้งาน",
-"เวอร์ชัน":39
+
+{
+         "name": "SG-AIS-FREE01",
+         "url": "https://raw.githubusercontent.com/Suriya2233/SURIYAXX/main/FREE-SG-01-A.ovpn"
+      }
+,
+{
+         "name": "SG-DTAC-FREE01",
+         "url": "https://raw.githubusercontent.com/Suriya2233/SURIYAXX/main/FREE-SG-01-D.ovpn"
+      }
+,
+{
+         "name": "SG-TRUE-FREE01",
+         "url": "https://raw.githubusercontent.com/Suriya2233/SURIYAXX/main/FREE-SG-01-T.ovpn"
+      }
+,
+{
+         "name": "SG-AIS-FREE02",
+         "url": "https://raw.githubusercontent.com/Suriya2233/SURIYAXX/main/FREE-SG-02-A.ovpn"
+      }
+,
+{
+         "name": "SG-DTAC-FREE02",
+         "url": "https://raw.githubusercontent.com/Suriya2233/SURIYAXX/main/FREE-SG-02-D.ovpn"
+      }
+,
+{
+         "name": "SG-TRUE-FREE02",
+         "url": "https://raw.githubusercontent.com/Suriya2233/SURIYAXX/main/FREE-SG-02-T.ovpn"
+      }
+{
+         "name": "SG-AIS-FREE03",
+         "url": "https://raw.githubusercontent.com/Suriya2233/SURIYAXX/main/FREE-SG-03-A.ovpn"
+      }
+,
+{
+         "name": "SG-DTAC-FREE03",
+         "url": "https://raw.githubusercontent.com/Suriya2233/SURIYAXX/main/FREE-SG-03-D.ovpn"
+      }
+,
+{
+         "name": "SG-TRUE-FREE03",
+         "url": "https://raw.githubusercontent.com/Suriya2233/SURIYAXX/main/FREE-SG-03-T.ovpn"
+      }
+,
+{
+         "name": "SG-AIS-FREE04",
+         "url": "https://raw.githubusercontent.com/Suriya2233/SURIYAXX/main/FREE-SG-04-A.ovpn"
+      }
+,
+{
+         "name": "SG-DTAC-FREE04",
+         "url": "https://raw.githubusercontent.com/Suriya2233/SURIYAXX/main/FREE-SG-04-D.ovpn"
+      }
+,
+{
+         "name": "SG-TRUE-FREE04",
+         "url": "https://raw.githubusercontent.com/Suriya2233/SURIYAXX/main/FREE-SG-04-T.ovpn"
+      }
+{
+         "name": "SG-AIS-FREE05",
+         "url": "https://raw.githubusercontent.com/Suriya2233/SURIYAXX/main/FREE-SG-05-A.ovpn"
+      }
+,
+{
+         "name": "SG-DTAC-FREE05",
+         "url": "https://raw.githubusercontent.com/Suriya2233/SURIYAXX/main/FREE-SG-05-D.ovpn"
+      }
+,
+{
+         "name": "SG-TRUE-FREE05",
+         "url": "https://raw.githubusercontent.com/Suriya2233/SURIYAXX/main/FREE-SG-05-T.ovpn"
+      }
+
+
+
+   ],
+"message":"
+■■■■■■■■■■■■■■
+🔔Update 1.10
+■■■■■■■■■■■■■■
+📗Ais PRO AIS play
+📕True FREE NO pro
+📘Dtac FREE NO pro
+■■■■■■■■■■■■■■
+
+
+\n\nเวอร์ชั่นไฟล์:26",
+"title":"New Update File" ,
+   "version":26
 }
